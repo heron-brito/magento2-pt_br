@@ -3,7 +3,7 @@
 
 Manual:
 - Crie o diretório app/i18n/heron-brito/pt_br
-- Efetue o download do repositório (git clone https://github.com/flowecommerce/magento2-pt_br ou faça o download do zip)
+- Efetue o download do repositório (git clone git@github.com:heron-brito/magento2-pt_br.git ou faça o download do zip)
 - Mova o conteúdo do repositório para a pasta e habilite a tradução
 
 
